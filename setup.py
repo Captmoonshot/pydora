@@ -78,6 +78,7 @@ setup(
         "console_scripts": [
             "pydora = pydora.player:main",
             "pydora-configure = pydora.configure:main",
+            "pydora-edit = pydora.editor:main",
         ],
     },
     classifiers=[
